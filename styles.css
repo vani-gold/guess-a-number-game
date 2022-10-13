@@ -71,14 +71,16 @@ h1 {
 
 .between {
   font-size: 1.4rem;
-  position: absolute;
-  top: 2rem;
+  text-align: center;
+  margin-top: 50px;
+  /* position: absolute; */
+  top: 6rem;
   right: 2rem;
 }
 
 .again {
   position: absolute;
-  top: 2rem;
+  top: 3rem;
   left: 2rem;
 }
 
@@ -110,7 +112,7 @@ h1 {
 }
 
 .message {
-  margin-bottom: 8rem;
+  /* margin-bottom: rem; */
   height: 3rem;
 }
 
